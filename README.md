@@ -32,6 +32,6 @@ Pokedex creada en Vue.js
 
 
                 **Despliegue local
-Una vez instaladas las depencias ejecutar el comando_
+Una vez instaladas las depencias ejecutar el comando:
         npm run serve
 
