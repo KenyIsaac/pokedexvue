@@ -3,7 +3,7 @@ Pokedex creada en Vue.js
 * API implementada: https://pokeapi.co/
 
 
- <!--La pokedex incluye a todos los pokemones con las siguientes caracterísicas-->
+                **La pokedex incluye a todos los pokemones con las siguientes caracterísicas
 
 * Descripción y tipo de pokemon.
 * Estadísiticas Bases
@@ -12,7 +12,7 @@ Pokedex creada en Vue.js
 * Movimientos.
 
 
-<!--Funcionalidades-->
+                **Funcionalidades
 * Lista de pokemones
 * Detalles de pokemones
 * Buscar pokémon
@@ -20,18 +20,18 @@ Pokedex creada en Vue.js
 * Diseño responsivo.
 
 
-<!--Tecnologías implementadas-->
+                **Tecnologías implementadas
 * Vue.js
 * Sass
 
 
 
-<!--Configuración del proyecto-->
+                **Configuración del proyecto
     Una vez descargado, aplicar el comando:
         npm install
 
 
-<!--Despliegue local-->
+                **Despliegue local
 Una vez instaladas las depencias ejecutar el comando_
         npm run serve
 
